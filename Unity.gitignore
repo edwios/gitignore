@@ -79,3 +79,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Generic to all Unity installed
+/[Xx]R/
+
+# Specific for project Cocoon
+/[Aa]ssets/HQ_ResidentialHouse/
+/[Aa]ssets/[Ss]tandard Assets/
+/[Aa]ssets/[Ee]ditor/
